@@ -1,5 +1,8 @@
 # Havij
-SQL injection (turning off our defender control)
-for windwos
+ # SQL injection software
+ windows supported only 
+ once you turn off our defender control then open it as administrater 
+ 
 
-file password: darknet123
+
+# file password: darknet123
