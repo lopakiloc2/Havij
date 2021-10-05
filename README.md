@@ -4,7 +4,7 @@ Havij is an automated SQL Injection tool that helps penetration testers to find 
 
  # SQL injection software
  windows supported only 
- once you turn off our defender control then open it as administrater 
+ once you turn off our defender control then open it as administrator
  
 
 
